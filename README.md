@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, Welcome to my resume linked account
+
+I'm Drew Buley, a Junior at Clemson University majoring in Computer Engineering. 
+This account serves as a hub to showcase both personal, and academic, projects that I have undertaken.
+
+If any projects peak your interest, I am happy to further explain project goals and outcomes in an interview setting.
 
 <!--
 **drew-buley/drew-buley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
