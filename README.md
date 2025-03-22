@@ -1,4 +1,4 @@
-## Hi, welcome to my resume linked account
+## Hi, welcome to my resume-linked account
 
 I'm Drew Buley, a Junior at Clemson University majoring in Computer Engineering. 
 This account serves as a newly created hub to showcase both personal, and academic, projects that I have undertaken.
