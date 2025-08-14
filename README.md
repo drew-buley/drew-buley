@@ -1,6 +1,7 @@
 ## Welcome to my resume-linked account
 
-I'm Drew Buley, a Junior at Clemson University majoring in Computer Engineering. 
+I'm Drew Buley, a Senior at Clemson University majoring in Computer Engineering. 
+
 This account is my hub to showcase both personal and academic projects. The origin of most is my Data Structures and Algorithms class which was taken Fall 2024.
 
 If any projects are of interest, I am happy to further explain project goals, methodology, and outcomes in more detail.
